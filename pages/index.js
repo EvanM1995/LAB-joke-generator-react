@@ -18,7 +18,7 @@ function Home() {
         punchline: obj.delivery,
       });
 
-      setButton('Get Puncline');
+      setButton('Get Punchline');
     });
   };
 
